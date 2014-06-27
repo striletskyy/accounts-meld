@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "bootstrap-3": {},
+    "accounts-linkedin": {},
+    "accounts-meld-client-bootstrap": {},
+    "accounts-templates-bootstrap": {},
+    "accounts-meld": {},
+    "accounts-templates-core": "0.0.9"
+  }
+}
